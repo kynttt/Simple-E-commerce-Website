@@ -1,0 +1,9 @@
+/* Add this CSS in your component's CSS file or stylesheet */
+#submitBtn {
+    transition: all 0.2s ease-in-out;
+  }
+  
+  #submitBtn:hover {
+    transform: translate(10px, 0); /* Adjust the amount you want the button to move */
+  }
+  

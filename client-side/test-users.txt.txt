@@ -1,0 +1,8 @@
+Regular User:
+    username:joe@mail.com
+    password:joe1234
+
+
+Admin User:
+    username:admin@mail.com
+    password:admin1234
